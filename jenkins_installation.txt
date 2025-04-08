@@ -8,4 +8,4 @@ echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] \   https://pkg.jen
 
 sudo apt-get update
 
-sudo apt-get install Jenkins
+sudo apt-get install jenkins
